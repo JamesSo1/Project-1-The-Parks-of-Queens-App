@@ -2,7 +2,7 @@
 
 Submitted by: James So
 
-This web app utilizes React to display information regarding public parks within Queens, New York. This app is meant to be used by Queens locals who are looking for amazing parks in Queens.
+This web app utilizes React to display information regarding public parks within Queens, New York. This app is meant to be used by Queens locals who are looking for amazing parks to visit.
 
 Time spent: 3 hours spent in total
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Each phone number associated with each park is a link that allows the user to call the park's number
+* [x] Each phone number associated with each park is a link that allows the user to call the park's phone number
 * [x] The address associated with a park is clickable and takes the user to a Google Maps page that tells the user how they can get to the park from their current location
 
 ## Video Walkthrough
@@ -38,7 +38,7 @@ GIF created with Loom
 
 ## Notes
 
-One challenge while making the app was being able to link the address of each park to a Google Maps page for that specific park. Another challenge was getting rid of the non-numeric characters of each park's phone number to be able to use the phone number to make an anchor tag associated with the phone number. 
+One challenge I faced while making the app was being able to link the address of each park to a Google Maps page for that specific park. Another challenge was getting rid of the non-numeric characters of each park's phone number to be able to use the phone number to make an anchor tag associated with the phone number.
 
 ## License
 
