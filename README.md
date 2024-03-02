@@ -2,7 +2,7 @@
 
 Submitted by: James So
 
-This web app: This web app utilizes React to display information regarding public parks within Queens, New York. This app is meant to be used by Queens locals who are looking for amazing parks in Queens.
+This web app utilizes React to display information regarding public parks within Queens, New York. This app is meant to be used by Queens locals who are looking for amazing parks in Queens.
 
 Time spent: 3 hours spent in total
 
