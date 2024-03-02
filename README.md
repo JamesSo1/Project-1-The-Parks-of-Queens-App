@@ -38,7 +38,7 @@ GIF created with Loom
 
 ## Notes
 
-One challenge I faced while making the app was being able to link the address of each park to a Google Maps page for that specific park. Another challenge was getting rid of the non-numeric characters of each park's phone number to be able to use the phone number to make an anchor tag associated with the phone number.
+One challenge I faced while making the app was being able to link the address of each park to a Google Maps page for that specific park. Another challenge was getting rid of the non-numeric characters of each park's phone number to be able to use the phone number to make an anchor tag associated with the phone number. Finding online resources helped out a lot in dealing with these challenges.
 
 ## License
 
