@@ -20,7 +20,7 @@ const Card = ({ name, address, website, phone, rating, image }) => {
         <b>Phone:</b> <a href={"tel:" + phone.replace(/\D/g, "")}>{phone}</a>
       </p>
       <p>
-        <b>Rating:</b> {rating}
+        <b>Rating:</b> {rating} / 5
       </p>
     </div>
   );
